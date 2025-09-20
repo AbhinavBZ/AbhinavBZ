@@ -3,8 +3,10 @@
 
 -  Hi, I’m Abhinav Bhardwaj
 -  [@AbhinavBZ]
--  https://abhinavbhardwaj.w3spaces.com
--  
+  
+- _Software designer and developer_ 
+-  Portfolio- https://abhinavbhardwaj.w3spaces.com
+-  Email- abhinav.bhardwaj1289@gmail.com
 <!---
 AbhinavBZ/AbhinavBZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
