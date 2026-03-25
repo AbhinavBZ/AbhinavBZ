@@ -1,7 +1,54 @@
 ![github-header-image](https://github.com/user-attachments/assets/0fe559e0-0028-4b0b-9385-e0c6f6542227)
 
-# 💫 About Me:
-## 👋 Hi there, I'm Abhi!<br><br>🔭 **Currently Working On**  <br>-  Building full-stack applications & backend systems  <br>-  Developing real-world problem-solving projects  <br><br>👯 **Looking to Collaborate On**  <br>-  Open-source projects  <br>-  Web development & AI/ML-based applications  <br><br>🤝 **Looking for Help With**  <br>- System design & scalable architecture  <br>- Advanced machine learning concepts  <br><br>🌱 **Currently Learning**  <br>-  Data Structures & Algorithms (DSA)  <br>-  Machine Learning & AI  <br>-  Cloud technologies  <br><br>💬 **Ask Me About**  <br>-  Java | Python | Full Stack Development  <br>-  Computer Networks | Problem Solving  <br><br>⚡ **Fun Fact**  <br>-  I love turning complex problems into simple, efficient code 🚀  
+# 💫 About Me
+
+<h2 align="center">👋 Hi there, I'm Abhi!</h2>
+
+<p align="center">
+  💻 Full Stack Developer &nbsp;|&nbsp; 🤖 ML Enthusiast &nbsp;|&nbsp; 🚀 Problem Solver
+</p>
+
+---
+
+## 🚀 🔭 Currently Working On
+✨ Building scalable **full-stack applications**  
+✨ Developing **real-world problem-solving projects**  
+
+---
+
+## 🤝 👯 Looking to Collaborate On
+🌍 Open-source projects  
+🤖 Web Development & AI/ML applications  
+
+---
+
+## 🧠 🤝 Looking for Help With
+⚙️ System Design & Scalable Architecture  
+📊 Advanced Machine Learning Concepts  
+
+---
+
+## 🌱 Learning Journey
+📚 Data Structures & Algorithms (DSA)  
+🤖 Machine Learning & AI  
+☁️ Cloud Technologies  
+
+---
+
+## 💬 Ask Me About
+☕ Java &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🌐 Full Stack Development  
+🌐 Computer Networks &nbsp;|&nbsp; 🧩 Problem Solving  
+
+---
+
+## ⚡ Fun Fact
+💡 I love turning complex problems into **simple & efficient solutions** 🚀  
+
+---
+
+<p align="center">
+  ⭐ *"Code. Learn. Build. Repeat."* ⭐
+</p> 
 
 
 ## 🌐 Socials:
