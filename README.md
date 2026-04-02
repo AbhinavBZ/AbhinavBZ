@@ -1,11 +1,16 @@
 
-<h2 width="100%" align="center">
+<h2 width="100%" align="center" style="background-image: url(''); background-size: cover; background-position: center;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Hi+there.....;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=F73953&center=true&vCenter=true&repeat=false&width=500&height=30&lines=I+am" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=500&color=F73953&center=true&vCenter=true&multiline=true&random=true&width=500&height=150&lines=Abhinav+Bhardwaj" alt="Typing SVG" /></a>
+
 </h2>
 
 
-![github-header-image](https://github.com/user-attachments/assets/0fe559e0-0028-4b0b-9385-e0c6f6542227)
+<!--![github-header-image](https://github.com/user-attachments/assets/0fe559e0-0028-4b0b-9385-e0c6f6542227)-->
 <p align="center">
   💻 Full Stack Developer &nbsp;|&nbsp; 🤖 ML Enthusiast &nbsp;|&nbsp; 🚀 Problem Solver
 </p>
