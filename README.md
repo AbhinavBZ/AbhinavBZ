@@ -8,9 +8,9 @@
 
 ---
 
-## 🚀 🔭 Currently Working On
-✨ Building scalable **full-stack applications**  
-✨ Developing **real-world problem-solving projects**  
+## Currently Working On
+- Building scalable **full-stack applications**  
+- Developing **real-world problem-solving projects**  
 
 ---
 
