@@ -1,8 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/0fe559e0-0028-4b0b-9385-e0c6f6542227)
 
-# 💫 About Me
-
-<h2 align="center">👋 Hi there, I'm Abhi!</h2>
+<h2 align="center">👋 Hi there, I'm ABHINAV </h2>
 
 <p align="center">
   💻 Full Stack Developer &nbsp;|&nbsp; 🤖 ML Enthusiast &nbsp;|&nbsp; 🚀 Problem Solver
@@ -16,33 +14,19 @@
 
 ---
 
-## 🤝 👯 Looking to Collaborate On
-🌍 Open-source projects  
-🤖 Web Development & AI/ML applications  
-
----
-
-## 🧠 🤝 Looking for Help With
-⚙️ System Design & Scalable Architecture  
-📊 Advanced Machine Learning Concepts  
-
----
-
 ## 🌱 Learning Journey
-📚 Data Structures & Algorithms (DSA)  
-🤖 Machine Learning & AI  
-☁️ Cloud Technologies  
+-JAVA
+-Data Structures & Algorithms (DSA)
+-Python
+-Machine Learning & AI  
+-Cloud Technologies
+-C/ C++ [Game Development]
 
 ---
 
 ## 💬 Ask Me About
 ☕ Java &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🌐 Full Stack Development  
 🌐 Computer Networks &nbsp;|&nbsp; 🧩 Problem Solving  
-
----
-
-## ⚡ Fun Fact
-💡 I love turning complex problems into **simple & efficient solutions** 🚀  
 
 ---
 
@@ -70,4 +54,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhinavBZ&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
