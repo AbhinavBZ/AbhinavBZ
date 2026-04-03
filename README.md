@@ -3,10 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Hi+there.....;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=F73953&center=true&vCenter=true&repeat=false&width=500&height=30&lines=I+am" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=500&color=F73953&center=true&vCenter=true&multiline=true&random=true&width=500&height=150&lines=Abhinav+Bhardwaj" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=500&color=FF0000&center=true&vCenter=true&width=700&height=150&lines=------------------;ABHINAV+BHARDWAJ;Full+stack+development;App+Development;Machine+Learning+models" alt="Typing SVG" /></a>
 </h2>
 
 
